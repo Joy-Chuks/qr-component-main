@@ -1,0 +1,46 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body{
+    background-color:rgb(118, 191, 240) ;
+    font-family: "Outfit", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+img{
+    align-items: center;
+    display: block;
+    text-align: center;
+}
+.box{
+    display: block;
+    margin-right: 450px;
+    margin-left: 450px;
+    background-color: white;
+    
+}
+.img-container{
+    justify-content: center;
+    display: flex;
+    padding-top: 20px;
+    
+    
+}
+h2{
+    align-items: center;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+
+}
+p{
+    text-align: center;
+    align-items: center;
+    color: rgb(54, 52, 52);
+
+}
+.attribution{
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+    color: rgb(54, 52, 52);
+}
